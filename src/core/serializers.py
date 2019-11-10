@@ -8,6 +8,7 @@ class CelestialBodySerializer(serializers.ModelSerializer):
             'name',
             'mass',
             'age',
+            'body_type',
             'description',
             'image',
         )
