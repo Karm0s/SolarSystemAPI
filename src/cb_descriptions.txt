@@ -1,0 +1,10 @@
+Sun|The only star in the solar system.
+Mercury|Mercury is the smallest and innermost planet in the Solar system.
+Venus|Venus is the second planet from the Sun. It is named after the Roman goddess of love.
+Earth|The only planet containing life and liquid water.
+Mars|Very red.
+Jupiter|Jupiter is the fifth planet from the Sun and the largest in the Solar system.
+Saturn|Saturn is the sixth planet from the Sun and the second-largest in the Solar System, after Jupiter. It is a gas giant with an average radius about nine times that of Earth.
+Uranus|Uranus is the seventh planet from the Sun in the Solar System. It is a gas giant. It is the third largest planet in the solar system. The planet is made of ice, gases and liquid metal.
+Neptune|Neptune is dark, cold, and very windy. It's the last of the planets in our solar system. It's more than 30 times as far from the sun as Earth is.
+Pluto|Pluto (minor planet designation: 134340 Pluto) is a dwarf planet in the Kuiper belt.
