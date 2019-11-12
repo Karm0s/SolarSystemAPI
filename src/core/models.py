@@ -19,7 +19,7 @@ class CelestialBody(models.Model):
     age = models.FloatField()
     
     body_type = models.CharField(max_length=2, choices=BODY_TYPES)
-    description = models.CharField(max_length=5000)
+    description = models.TextField(blank=True)
     image = models.CharField(max_length=2048)
 
 
