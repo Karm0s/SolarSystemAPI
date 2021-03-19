@@ -1,5 +1,5 @@
 Django==2.2.7
-djangorestframework==3.10.3
+djangorestframework==3.11.2
 et-xmlfile==1.0.1
 jdcal==1.4.1
 openpyxl==3.0.0
